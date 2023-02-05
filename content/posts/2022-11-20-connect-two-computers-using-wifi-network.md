@@ -1,6 +1,6 @@
 ---
 title: "how to connect two computers using wifi network?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you to how to connect two computers on same wifi network."
 tags: ["Windows"]
 url: "/how-to-connect-two-computers-using-wifi-network"

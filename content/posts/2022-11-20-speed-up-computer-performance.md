@@ -1,6 +1,6 @@
 ---
 title: "How to speed up computer performance?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: " This article will guide you how to speed up computer performance"
 tags: ["Windows"]
 url: "/how-to-speed-up-computer-performance"

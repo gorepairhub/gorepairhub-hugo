@@ -1,6 +1,6 @@
 ---
 title: "how to antivirus disable in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to disable antivirus "
 tags: ["Windows"]
 url: "/how-to-antivirus-disable-windows"

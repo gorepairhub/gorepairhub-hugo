@@ -1,6 +1,6 @@
 ---
 title: "how to crack windows password by software?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to how to crack  windows password step by step."
 tags: ["Windows"]
 url: "/how-to-crack-windows-password"

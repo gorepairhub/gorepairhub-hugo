@@ -1,6 +1,6 @@
 ---
 title: "How to Start your PC in safe mode in Windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: " This article will guide you how to Start your PC in safe mode in Windows"
 tags: ["Windows"]
 url: "/how-to-start-your-pc-in-safe-mode-in-windows"

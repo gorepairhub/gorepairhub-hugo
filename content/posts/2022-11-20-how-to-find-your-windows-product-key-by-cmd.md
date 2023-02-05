@@ -1,6 +1,6 @@
 ---
 title: "how to find your windows product key by cmd?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to find your windows product key by cmd step by step."
 tags: ["Windows"]
 url: "/how-to-find-your-windows-product-key-by-cmd"

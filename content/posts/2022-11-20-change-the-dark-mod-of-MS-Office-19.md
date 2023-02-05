@@ -1,6 +1,6 @@
 ---
 title: "How to change the dark mod of MS Office 19?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to change the background theme msoffice-19 "
 tags: ["Windows"]
 url: "/how-to-change-the-dark-mod-of-MS-Office-19"

@@ -1,6 +1,6 @@
 ---
 title: "How to install tally prime in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: " This article will guide you how to install-tally-prime-in-windows"
 tags: ["Windows"]
 url: "/install-tally-prime-in-windows"

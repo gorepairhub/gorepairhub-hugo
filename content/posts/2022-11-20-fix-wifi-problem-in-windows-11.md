@@ -1,6 +1,6 @@
 ---
 title: "how to fix wifi problem in windows 11?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you to HOW TO fix wifi problem in windows 11 ."
 tags: ["Windows"]
 url: "/fix-wifi-problem-in-windows-11"

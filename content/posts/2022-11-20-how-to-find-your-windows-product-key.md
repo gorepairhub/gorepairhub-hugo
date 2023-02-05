@@ -1,6 +1,6 @@
 ---
 title: "how to find your windows product key?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to find your windows product key step by step."
 tags: ["Windows"]
 url: "/how-to-find-your-windows-product-key"

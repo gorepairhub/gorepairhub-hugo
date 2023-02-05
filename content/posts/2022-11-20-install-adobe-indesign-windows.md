@@ -1,6 +1,6 @@
 ---
 title: "How to install adobe indesign 22 in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you How to install adobe indesign 22 in windows"
 tags: ["Windows"]
 url: "/how-to-install-adobe-indesign-22-in-windows"

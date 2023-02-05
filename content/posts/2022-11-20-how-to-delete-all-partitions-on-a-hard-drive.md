@@ -1,6 +1,6 @@
 ---
 title: "how to delete all partitions on a hard drive?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how-to-delete all partitions on a hard drive hdd/ssd"
 tags: ["Windows"]
 url: "/how-to-delete-all-partitions-on-a-hard-drive"

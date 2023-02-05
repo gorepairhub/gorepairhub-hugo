@@ -1,6 +1,6 @@
 ---
 title: "How to install Photoshop Lightroom 2020 21 in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: " This article will guide you how to install aftereffact 2020 in windows"
 tags: ["Windows"]
 url: "/install-Photoshop-Lightroom-2020-21-in-windows"

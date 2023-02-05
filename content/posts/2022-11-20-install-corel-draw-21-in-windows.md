@@ -1,6 +1,6 @@
 ---
 title: "How to install CorelDRAW in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: " This article will guide you how to install coreldraw"
 tags: ["Windows"]
 url: "/how-to-install-coreldraw-in-windows"

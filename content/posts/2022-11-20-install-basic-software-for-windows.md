@@ -1,6 +1,6 @@
 ---
 title: "How to install basic software for windows ?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: " This article will guide you how to install basic software for windows "
 tags: ["Windows"]
 url: "/basic-software-for-windows"

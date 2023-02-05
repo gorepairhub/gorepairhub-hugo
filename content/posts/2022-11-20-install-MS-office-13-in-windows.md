@@ -1,6 +1,6 @@
 ---
 title: "How to install MS office 13 in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to install MS-office13 in windows"
 tags: ["Windows"]
 url: "/How-to-install-MS-office-13-in-windows"

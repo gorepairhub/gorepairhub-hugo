@@ -1,6 +1,6 @@
 ---
 title: "how to check hard drive bad sectors?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you to check your hdd/ssd health ."
 tags: ["Windows"]
 url: "/how-to-check-your-HDD-SSD-health"

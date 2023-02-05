@@ -1,6 +1,6 @@
 ---
 title: "How to install aftereffact 2020 in windows ?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to install aftereffact 20 in windows"
 tags: ["Windows"]
 url: "/how-to-install-aftereffact-in-windows"

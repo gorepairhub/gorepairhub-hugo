@@ -1,6 +1,6 @@
 ---
 title: "how to make windows 11 bootable usb?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you to how to make windows 11 bootable usb."
 tags: ["Windows"]
 url: "/how-to-make-windows-11-bootable-usb"

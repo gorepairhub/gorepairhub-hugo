@@ -1,6 +1,6 @@
 ---
 title: "How to install MS office 19 in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide you how to install ms office 19"
 tags: ["Windows"]
 url: "/how-to-install-ms-office-19-in-windows"

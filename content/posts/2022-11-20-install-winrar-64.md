@@ -1,6 +1,6 @@
 ---
 title: "How to install winrar in windows?"
-date: "2022-11-20"
+date: "2023-01-01"
 description: "This article will guide to install winrar in windows with step by step."
 tags: ["Windows"]
 url: "/how-to-install-winrar-in-windows"

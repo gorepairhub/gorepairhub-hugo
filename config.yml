@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
+googleAnalytics: G-E2G3LN1Z12
 
 minify:
     disableXML: true
@@ -21,14 +21,20 @@ languages:
         languageName: "English"
         weight: 1
         taxonomies:
-          category: categories
           tag: tags
-          series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: About US
+                  url: about-us/
                   weight: 5
+                - name: Services
+                  url: services/
+                  weight: 5
+                - name: Archives
+                  url: archives/
+                - name: Testimonials
+                  url: testimonials/
+                  weight: 5 
                 - name: Search
                   url: search/
                   weight: 10
@@ -76,17 +82,49 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "goRepairHub | Blogs"
+        Title: "goRepairHub | Desktop & Laptop service center"
         Content: >
-            Welcome to demo of hugo's theme goRepairHub.
+            We repair and buy-sell desktops, laptops, and Macbooks at affordable prices.
+            <br/>
+            <br/>
+            <h3>Phone Number</h3>
+            <p>+91 99678 14596</p>
+
+            <br/>
+            <h3>Email</h3>
+            <p>goRepairHub@gmail.com</p>
+
+            <br/>
+            <h3>Address</h3>
+            <p>404 - 09, Sonam Jyot, New Golden Nest Phase 7, Bhayandar East, Thane 401105</p>
+            <br/>
+            <h3>Services</h3>
+                <h4>&nbsp;&nbsp;&nbsp;&nbsp;Online</h4>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Installation</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Networking</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Backup</p>
+                <h4>&nbsp;&nbsp;&nbsp;&nbsp;Offline</h4>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Desktops Repairs</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laptops Repairs</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MacBook Repairs</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Formatting Installation</p>
+            
+            Check More about our <a href="/services">Services</a>
+
+            <br/>
+            <br/>
+            <h3>Connect With My Social Accounts.</h3>
 
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Rss
-          url: "index.xml"
+        - name: twitter
+          url: "https://twitter.com/goRepairHub"
+        - name: whatsapp
+          url: https://api.whatsapp.com/send/?phone=919967814596&text=Hello+Shivansh%2C+I%27m+looking+for+your+service%2C+can+we+connect%3F&type=phone_number&app_absent=0
+        - name: email
+          url: "mailto:gorepairhub@gmail.com"
+        - name: phone
+          url: "tel:+919967814596"
+
 
     # label:
     #     text: "Home"
