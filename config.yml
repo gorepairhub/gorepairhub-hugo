@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-googleAnalytics: G-E2G3LN1Z12
+# googleAnalytics: G-E2G3LN1Z12
 
 minify:
     disableXML: true
