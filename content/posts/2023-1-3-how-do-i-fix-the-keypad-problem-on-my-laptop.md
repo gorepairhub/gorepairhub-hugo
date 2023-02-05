@@ -1,6 +1,6 @@
 ---
 title: "How do I fix the keypad problem on my laptop?"
-date: "2022-11-20"
+date: "2023-01-03"
 description: "This article will guide to How do I fix the keypad problem on my laptop with step by step."
 tags: ["Windows"]
 url: "/how-do-i-fix-the-keypad-problem-on-my-laptop"

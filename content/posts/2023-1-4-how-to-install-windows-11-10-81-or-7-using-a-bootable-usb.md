@@ -1,6 +1,6 @@
 ---
 title: "How to Install Windows 11, 10, 8.1 or 7 Using a Bootable USB?"
-date: "2022-11-20"
+date: "2023-01-04"
 description: "This article will guide to How to Install Windows 11, 10, 8.1 or 7 Using a Bootable USB with step by step."
 tags: ["Windows"]
 url: "/how-to-install-windows-11-10-81-or-7-using-a-bootable-usb"

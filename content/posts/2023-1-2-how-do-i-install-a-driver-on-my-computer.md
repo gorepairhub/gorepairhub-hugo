@@ -1,6 +1,6 @@
 ---
 title: "How do I install a driver on my computer?"
-date: "2022-11-20"
+date: "2023-01-02"
 description: "This article will guide to How do I install a driver on computer in windows with step by step."
 tags: ["Windows"]
 url: "/how-do-i-install-a-driver-on-my-computer"

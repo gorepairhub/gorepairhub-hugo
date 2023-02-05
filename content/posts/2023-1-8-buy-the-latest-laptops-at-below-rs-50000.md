@@ -1,6 +1,6 @@
 ---
 title: "Buy the Latest Laptops at below Rs. 50000?"
-date: "2022-11-20"
+date: "2023-01-08"
 description: "This article will guide Buy the Latest Laptops at below Rs. 50000."
 tags: ["Windows"]
 url: "/buy-the-latest-laptops-at-below-rs-50000"

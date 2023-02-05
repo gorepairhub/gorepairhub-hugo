@@ -1,6 +1,6 @@
 ---
 title: "Buy the Latest Laptops at below Rs. 80000?"
-date: "2022-11-20"
+date: "2023-01-11"
 description: "This article will guide Buy the Latest Laptops at below Rs. 80000."
 tags: ["Windows"]
 url: "/buy-the-latest-laptops-at-below-rs-80000"
@@ -15,44 +15,67 @@ If you want to buy a laptop under 60000 there are many laptops available on the 
 All things are good. please who are purchasing should check all the packaging and start the laptop in front of the delivery boy. Also, check all the laptops and accessories and then start the laptop then check all software details and warranty after that can give otp.
 
 ## Lenovo Legion 5 
-Lenovo Legion 5 Intel Core i5 10th Gen - 10500H 15.6" (39.62cm) FHD IPS Gaming Laptop (8GB/512GB SSD/4GB NVIDIA RTX 3050/120Hz/Windows 11/Backlit/3months Game Pass/Phantom Black/2.3Kg).<br>
-<a href="https://www.amazon.in/Lenovo-Legion-Intel-Core-10th/dp/B09Z2R77Z1/ref=sr_1_79?crid=3OM3FAZO7EBKU&keywords=80000%2Blaptop&qid=1675499513&sprefix=80000%2Blaptop%2Caps%2C497&sr=8-79" target =_blank>buy-Lenovo-Legion-5</a><br>
 
-![select,safe](https://gorepairhub.github.io/images/2023-1-11-buy-the-latest-laptops-at-below-rs-80000/lenovo-legion-1.png)
+We all know that legion provides the best quality which matters a lot if you want it to last for atleast 4-5 years. This laptop is beast. Just blindly go for it u won't regret. Also it has a 95w tgp graphics card so it outperforms every laptop in this segment. Don't worry about the processor, it's a little old cpu but it has 6 cores and 12 threads which performs really great. You will have no problems or lag while doing any sort of work. Also it has a mux switch. Therefore I'm quite satisfied with this laptop!!!!
+
+<a href="https://amzn.to/3HV5icn" target =_blank>buy-Lenovo-Legion-5</a>
+
+<a href="https://amzn.to/3HV5icn" target =_blank><img src="https://gorepairhub.github.io/images/2023-1-11-buy-the-latest-laptops-at-below-rs-80000/lenovo-legion-1.png" alt="Lenovo Legion 5" /></a>
 
 
-laptop-detail:-
+### Laptop Details of Lenovo Legion 5
 
-laptop brand:lenovo
+|   |   |
+|---|---|
+| Laptop brand  | lenovo  |
+| Processor  | intel-cori5-10  |
+| Average Battery Life  | 3h-5h  |
+| Storage  | 512 SSD  |
+| Memory  | 8gb-ddr4  |
+| Display  | 15.6 Inches  |
+| OS  | windows 11 home  |
+| Camera  | HD 720p  |
+| Graphics  | NVIDIA GeForce RTX 3050 4GB GDDR6  |
 
-processor:intel-cori5-10
+<a href="https://amzn.to/3HV5icn" target =_blank><img src="https://gorepairhub.github.io/images/2023-1-11-buy-the-latest-laptops-at-below-rs-80000/lenovo-legion-2.png" alt="Lenovo Legion 5" /></a>
 
-average-battery-life:3h-5h
 
-storage:512ssd
+|   |   |
+|---|---|
+|  Processor & Memory | Intel, 'Core_i5_2.8GHz', 10th Gen Intel Core i5-10500H, 4.5 GHz, 8GB RAM, RAM Expandable up to 16GB  | 
+| Operating System & Software  |  Windows 11 Home operating system, Windows 11 Home 64, English Included |
+| Storage  | SSD, 0GB, 512GB SSD  |
+| Display  |  15.6 inches, LED display, 1920X1080 resolution, 120 Hz refresh rate  |
+| Ports & Connectivity  | 5 USB 3.0 Ports,0 USB 2.0 Ports,1 HDMI Ports,with Bluetooth;Wi-Fi  |
+| Features  | Dedicated graphics,NVIDIA GeForce RTX 3050 4GB graphics RAM,5.9 hours average battery life  |
+| Warranty  | 1 Year Onsite Warranty + 1 Year Legion Ultimate Support + 1 Year Accidental Damage Protection  |
 
-memory:8gb-ddr4
+<a href="https://amzn.to/3HV5icn" target =_blank>buy-Lenovo-Legion-5</a><br>
 
-display:15.6"
+### Question and answer about Lenovo Legion 5
 
-os:windows-11-home
+#### Does it require sdd to be swapped for hdd?
 
-camera:hd720p
+> No, it's not required
 
-Graphics: NVIDIA GeForce RTX 3050 4GB GDDR6
+#### Can we install an internal HDD in this laptop ?
 
-![select,safe](https://gorepairhub.github.io/images/2023-1-11-buy-the-latest-laptops-at-below-rs-80000/lenovo-legion-2.png)
+> Yes you can, I installed the HDD from my old laptop to this.
 
-Processor: 10th Gen Intel Core i5-10500H | Speed: 2.5 GHz (Base) - 4.5 GHz (Max) | 6 Cores | 12 Threads | 12MB Cache
-Display: 15.6" FHD (1920x1080) | IPS Technology | 120 Hz Refresh Rate | 250Nits Brightness Anti-glare | 45% NTSC || Memory: 8GB RAM DDR4-2933, Upgradable Up to 16GB || Storage: 512GB SSD || || Connectivity : Wifi 6 11ax (2x2), Bluetooth 5.1
-Graphics: NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1740MHz, TGP 95W || Cooling: Coldfront 2.0 with Dual Channel thermal mechanism | Q Control 3.0 to select between Quiet, Balance and Performance thermal modes
-AI Engine : Upto 15% more FPS and Best performance with Auto Detect Mode (Top 16 AAA Titles) and Auto Optimisation Mode | Q Control 4.0 to select between Quiet (Blue), Intelligent (White) and Performance (Red) Modes
-OS and Pre-Installed Softare: Pre-Loaded Windows 11 Home with Lifetime Validity| MS Office Trial || Battery Life: 60Wh | upto 4.2 Hours | Rapid Charge Pro (Up to 50% in 30 Minutes)
-Audio: 2x 2W HD Stereo Speakers | Nahimic Audio with Surround Sound, Sound Tracker, Night Mode, Sound Sharing & Content Profiles || Camera: HD 720p with E-camera Shutter: Physical kill switch for 100% privacy protection | Integrated Dual Array Mic
-Keyboard: Full-size 4-Zone White Backlit Legion TrueStrike Keyboard with 100% Anti-Ghosting, Anti-Abrasion and Soft-Landing switches | 1.5 mm Key Travel | Large Arrow Keys | Large one piece Track Pad<br>
-<a href="https://www.amazon.in/Lenovo-Legion-Intel-Core-10th/dp/B09Z2R77Z1/ref=sr_1_79?crid=3OM3FAZO7EBKU&keywords=80000%2Blaptop&qid=1675499513&sprefix=80000%2Blaptop%2Caps%2C497&sr=8-79" target =_blank>buy-Lenovo-Legion-5</a><br>
+#### Is it rtx 3050 or gtx 1650?
+
+> This machine has NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1740MHz, TGP 95W, Graphics.
+
+#### Why this rtx 3050 is not registered in lenovo website
+
+> There is a legion of this configuration in lenevo site
+
+#### Is display good for design purpose?
+
+> Display of laptop is awesome but issue is that price without any offer does not justify the good price of product is 64000 or less then 64000 performance is awesome of the product.
 
 ## Dell New G15 5520
+
 <a href="https://www.amazon.in/Dell-i5-12500H-39-62Cms-Backlit-D560822WIN9B/dp/B09XXM57T2/ref=sr_1_15?crid=2Q3G8151FHL4&keywords=dell%2Bg-15&qid=1675510728&sprefix=dell%2Bg-15%2Caps%2C382&sr=8-15&th=1" target =_blank>buy-Dell-New-G15-5520</a>
 
 ![select,safe](https://gorepairhub.github.io/images/2023-1-11-buy-the-latest-laptops-at-below-rs-80000/dell-g-15-1.png)
